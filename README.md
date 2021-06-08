@@ -1,8 +1,8 @@
 # Doing-Data-Science-Project-1
 ##Eric Cadena and Patricia Hererra
 
-Mean for Try Code
+Meant for Trying Code that we may not want to be part of our master document
 
-Part 2
+
 
 
