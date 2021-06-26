@@ -6,11 +6,11 @@
 #Budweiser has requested that we present a report regarding the findings of this project. Through our recommendation, our client will regain their position as the King of Beers #and gain an advantage over competition!
 
 #Files:
-#CSV Files - The Beers dataset contains a list of 2410 US craft beers and Breweries dataset contains 558 US breweries. 
-#PPT Presentation - Contains slides used in supplemental video presentations
-#An RMarkdown file
-#Knit HTML file
-#Readme.md 
+CSV Files - The Beers dataset contains a list of 2410 US craft beers and Breweries dataset contains 558 US breweries. 
+PPT Presentation - Contains slides used in supplemental video presentations
+An RMarkdown file
+Knit HTML file
+Readme.md 
 
 #Analysis Questions:
 
