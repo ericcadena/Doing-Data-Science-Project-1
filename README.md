@@ -47,7 +47,6 @@ Our analysis of the study results in marketing recommendations that can be provi
 
 
 #Youtube Videos
-Links to support this project can be found at the links below:
 
-Tricia Herrera Youtube Video: 
+Tricia Herrera Youtube Video: https://www.youtube.com/watch?v=tUrTIKhdiFc
 Eric Cadena Youtube Video: 
