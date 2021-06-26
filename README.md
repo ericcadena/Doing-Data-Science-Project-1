@@ -16,7 +16,7 @@ An RMarkdown file
 
 Knit HTML file
 
-R Code Beer Analysis - Contains raw code 
+R Code Book - Beer Analysis - Contains raw R code 
 
 Readme.md 
 
